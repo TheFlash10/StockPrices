@@ -1,2 +1,2 @@
 # StockPrices
-Predict Stock Prices
+Predicting Stock Prices using LSTM
